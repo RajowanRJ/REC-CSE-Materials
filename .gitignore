@@ -1,0 +1,27 @@
+# Windows
+Thumbs.db
+desktop.ini
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Executables & Binaries (Avoid uploading compiled files)
+*.exe
+*.o
+*.class
+*.dll
+*.so
+*.bin
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.temp**/Physics-For-Engineers-part-2-Gias-Uddin-.pdf
